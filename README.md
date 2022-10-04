@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerik2004&show_icons=true&locale=en" alt="jerik2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerik2004&" alt="jerik2004" /></p>
+
+
+![snake gif](https://github.com/jerik-george/jerik-george/blob/output/github-contribution-grid-snake.gif)
